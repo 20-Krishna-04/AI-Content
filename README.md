@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🎬 AI Content Studio (Major Update)</h1>
-  <p><strong>The World's Best Open-Source AI Video & Podcast Generator</strong></p>
+  <h1>🎬 AI Content Studio</h1>
+
 </div>
 
 ---
